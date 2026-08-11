@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local financial statements and generated reports
+data/input/*
+!data/input/.gitkeep
+results/
+results_jupyter/
+
