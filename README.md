@@ -38,7 +38,7 @@ pip install -e .
 Один файл:
 
 ```bash
-python run_analysis.py /path/to/company.xlsx --company "Название компании"
+python run_analysis.py data/input/ВАШ_ФАЙЛ.xlsx --company "Название компании"
 ```
 
 Портфель компаний:
